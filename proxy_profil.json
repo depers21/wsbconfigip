@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "hostname": "brd.superproxy.io",
+      "port": 22225,
+      "username": "brd-customer-hl_e7c698a5-zone-datacenter_proxy1",
+      "password": "dleyebina019"
+    },
+    {
+      "hostname": "brd.superproxy.io",
+      "port": 22226,
+      "username": "brd-customer-hl_e7c698a5-zone-datacenter_proxy2",
+      "password": "dleyebina020"
+    },
+    {
+      "hostname": "brd.superproxy.io",
+      "port": 22227,
+      "username": "brd-customer-hl_e7c698a5-zone-datacenter_proxy3",
+      "password": "dleyebina021"
+    },
+    {
+      "hostname": "brd.superproxy.io",
+      "port": 22228,
+      "username": "brd-customer-hl_e7c698a5-zone-datacenter_proxy4",
+      "password": "dleyebina022"
+    },
+    {
+      "hostname": "brd.superproxy.io",
+      "port": 22229,
+      "username": "brd-customer-hl_e7c698a5-zone-datacenter_proxy5",
+      "password": "dleyebina023"
+    }
+  ]
+}
